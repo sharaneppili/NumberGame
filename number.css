@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.elementbox {
+    height: 70px;
+    width: 100px;
+    background-color:black;
+    margin: 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+    font-size: 40px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
+.background{
+    background-color:blueviolet;
+    padding:10px;
+    border:solid 10px black;
+    height:100vh;
+    width:100vw;
+}
+.btn{
+   
+    padding:10px;
+    background-color:red;
+    font-size:40px;
+    color:white;
+    border:solid 4px white;
+    margin:15px;
+
+}
+#timer{
+    font-size: 40px;
+    color:white;
+    font-weight: bold;
+
+}
+.label{
+    padding:10px;
+    border:solid 3px red;
+    border-radius:10px;
+    font-weight: bold;
+    font-size:30px;
+
+}
+.input{
+    height:20px;
+    width:20px;
+    color:wheat;
+}
+span{
+    color:black;
+    font-size:50px;
+}
